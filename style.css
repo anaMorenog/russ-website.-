@@ -15,5 +15,5 @@ h1{
 }
 
 body{
-	background-image: url(download(2).jpg);
+	background-image: url("download(2).jpg");
 }
