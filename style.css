@@ -13,3 +13,7 @@ h1{
 	height: 200px;
 	width: auto;
 }
+
+body{
+	background-image: url(download(2).jpg);
+}
